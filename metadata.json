@@ -1,0 +1,5 @@
+{
+  "name": "Hafıza Asistanı",
+  "description": "Aralıklı tekrar yöntemi ile öğrenilen konuları hatırlatan ve AI destekli asistan içeren uygulama.",
+  "requestFramePermissions": []
+}
